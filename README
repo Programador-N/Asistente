@@ -1,0 +1,29 @@
+ASISTENTE VIRTUAL
+├── INTERACCIÓN BÁSICA
+│   ├── Saludos y Despedidas
+│   └── Preguntas Generales
+├── RECONOCIMIENTO DE EMOCIONES
+│   ├── Detección de Emociones
+│   └── Respuestas Empáticas
+├── PERSONALIZACIÓN SEGÚN EL PERFIL DEL USUARIO
+│   ├── Perfil del Usuario
+│   └── Respuestas Contextualizadas
+├── MANTENER CONVERSACIONES FLUIDAS
+│   ├── Preguntas de Seguimiento
+│   └── Historial de Conversaciones
+├── PERSISTENCIA DE DATOS
+│   ├── Estado Emocional
+│   ├── Historial de Conversaciones
+│   └── Perfil del Usuario
+├── INTERFAZ GRÁFICA
+│   ├── Botones Principales
+│   └── Configuración Adicional
+├── FUNCIONALIDADES TÉCNICAS
+│   ├── Reconocimiento de Voz
+│   ├── Síntesis de Voz
+│   ├── Persistencia de Datos
+│   └── Interfaz Gráfica
+└── ESCALABILIDAD FUTURA
+    ├── Integración con APIs
+    ├── Aprendizaje Automático
+    └── Multilenguaje

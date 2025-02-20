@@ -1,0 +1,103 @@
+MDBoxLayout:
+    orientation: "horizontal"
+    # Área del asistente virtual
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: "10dp"
+        spacing: "10dp"
+        size_hint_x: 0.5
+        # Barra superior con reloj y botón de cambio de tema
+        MDBoxLayout:
+            orientation: "horizontal"
+            size_hint_y: None
+            height: "80dp"
+            MDLabel:
+                id: reloj
+                halign: "center"
+                font_style: "H4"
+            MDRaisedButton:
+                text: "Cambiar Tema"
+                on_release: app.cambiar_tema()
+        # Avatar redondo dinámico
+        MDBoxLayout:
+            orientation: "horizontal"
+            size_hint_y: None
+            height: "150dp"
+            padding: "10dp"
+            MDBoxLayout:
+                id: avatar_box
+                size_hint: (None, None)
+                size: "150dp", "150dp"
+                canvas.before:
+                    Color:
+                        rgba: 1, 1, 1, 1
+                    Ellipse:
+                        pos: self.pos
+                        size: self.size
+        # Historial de conversación
+        ScrollView:
+            MDBoxLayout:
+                id: historial
+                orientation: "vertical"
+                size_hint_y: None
+                height: self.minimum_height
+                spacing: "8dp"
+        # Campo de texto para interactuar
+        MDBoxLayout:
+            orientation: "horizontal"
+            size_hint_y: None
+            height: "60dp"
+            MDTextField:
+                id: input_texto
+                hint_text: "Escribe aquí..."
+                multiline: False
+            MDRaisedButton:
+                text: "Enviar"
+                on_release: app.procesar_comando_texto()
+        # Botones Positivo y Negativo
+        MDBoxLayout:
+            orientation: "horizontal"
+            size_hint_y: None
+            height: "60dp"
+            MDRaisedButton:
+                text: "Positivo"
+                md_bg_color: 0, 1, 0, 1
+                icon: "emoticon-happy-outline"
+                on_release: app.mostrar_mensaje_positivo()
+            MDRaisedButton:
+                text: "Negativo"
+                md_bg_color: 1, 0, 0, 1
+                icon: "emoticon-sad-outline"
+                on_release: app.mostrar_mensaje_negativo()
+    # Línea divisoria mejorada con animación
+    MDBoxLayout:
+        orientation: "vertical"
+        size_hint_x: 0.01
+        padding: "5dp"
+        canvas.before:
+            Color:
+                rgba: 0.5, 0.5, 0.5, 1
+            RoundedRectangle:
+                pos: self.pos
+                size: self.size
+                radius: [10, 10, 10, 10]
+    # Área de funciones de voz
+    MDBoxLayout:
+        orientation: "vertical"
+        size_hint_x: 0.2
+        padding: "10dp"
+        spacing: "10dp"
+        md_bg_color: 1, 1, 1, 1
+        MDLabel:
+            text: "Voz"
+            halign: "center"
+            font_style: "H6"
+        MDFloatingActionButton:
+            icon: "microphone"
+            pos_hint: {"center_x": 0.5}
+            on_release: app.procesar_comando()
+        MDRaisedButton:
+            text: "Activar Contexto"
+            size_hint_y: None
+            height: "48dp"
+            on_release: app.activar_contexto()

@@ -1,0 +1,150 @@
+[
+    {
+        "usuario": "hola buenos d\u00edas",
+        "asistente": "\u00a1Hola! \u00bfC\u00f3mo est\u00e1s?"
+    },
+    {
+        "usuario": "estoy bien estoy ahora para empezar a trabajar",
+        "asistente": "No estoy seguro de qu\u00e9 quieres decir, \u00bfpuedes reformularlo?"
+    },
+    {
+        "usuario": "estoy bien",
+        "asistente": "No estoy seguro de qu\u00e9 quieres decir, \u00bfpuedes reformularlo?"
+    },
+    {
+        "usuario": "hola c\u00f3mo est\u00e1s",
+        "asistente": "\u00a1Hola! \u00bfC\u00f3mo est\u00e1s?"
+    },
+    {
+        "usuario": "bien y t\u00fa",
+        "asistente": "No estoy seguro de qu\u00e9 quieres decir, \u00bfpuedes reformularlo?"
+    },
+    {
+        "usuario": "hola buenos d\u00edas",
+        "asistente": "\u00a1Hola! \u00bfC\u00f3mo est\u00e1s?"
+    },
+    {
+        "usuario": "estoy muy bien y muy contento",
+        "asistente": "No estoy seguro de qu\u00e9 quieres decir, \u00bfpuedes reformularlo?"
+    },
+    {
+        "usuario": "Error desconocido",
+        "asistente": "No estoy seguro de qu\u00e9 quieres decir, \u00bfpuedes reformularlo?"
+    },
+    {
+        "usuario": "estoy muy bien y estoy muy contento",
+        "asistente": "No estoy seguro de qu\u00e9 quieres decir, \u00bfpuedes reformularlo?"
+    },
+    {
+        "usuario": "c\u00f3mo est\u00e1s",
+        "asistente": "Estoy bien, gracias por preguntar. \u00bfY t\u00fa?"
+    },
+    {
+        "usuario": "qu\u00e9 puedes hacer",
+        "asistente": "Puedo escucharte y responderte con voz, adem\u00e1s de mantener una conversaci\u00f3n b\u00e1sica."
+    },
+    {
+        "usuario": "qu\u00e9 d\u00eda es hoy",
+        "asistente": "Hoy es un gran d\u00eda, d\u00e9jame verificar la fecha por ti."
+    },
+    {
+        "usuario": "cu\u00e9ntame un chiste",
+        "asistente": "\u00bfPor qu\u00e9 el libro de matem\u00e1ticas estaba triste? Porque ten\u00eda demasiados problemas."
+    },
+    {
+        "usuario": "hola",
+        "asistente": "\u00a1Buenos d\u00edas! \ud83d\ude0a Soy tu asistente psicol\u00f3gico. \u00bfEn qu\u00e9 puedo ayudarte hoy?"
+    },
+    {
+        "usuario": "quisiera aprender algo",
+        "asistente": "Gracias por compartir. Siempre estoy aqu\u00ed para escucharte."
+    },
+    {
+        "usuario": "eh quiero hablar de las emociones",
+        "asistente": "Gracias por compartir. Siempre estoy aqu\u00ed para escucharte."
+    },
+    {
+        "usuario": "eh quiero hablar sobre",
+        "asistente": "Gracias por compartir. Siempre estoy aqu\u00ed para escucharte."
+    },
+    {
+        "usuario": "de qu\u00e9 podemos hablar hoy",
+        "asistente": "Gracias por compartir. Siempre estoy aqu\u00ed para escucharte."
+    },
+    {
+        "usuario": "hola",
+        "asistente": "\u00a1Buenos d\u00edas! \ud83d\ude0a \u00bfC\u00f3mo est\u00e1s hoy?"
+    },
+    {
+        "usuario": "estoy feliz",
+        "asistente": "\u00a1Me alegra mucho escuchar eso! \u00bfHay algo en particular que te haya hecho sentir as\u00ed? \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "s\u00ed el estudiar programaci\u00f3n",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "estoy",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "me gustar\u00eda aprender algo nuevo",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "hablar de las emociones",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "hablar de las emociones",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "hola",
+        "asistente": "\u00a1Buenos d\u00edas! \ud83d\ude0a \u00bfC\u00f3mo est\u00e1s hoy?"
+    },
+    {
+        "usuario": "estoy m\u00e1s o menos",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "estoy estudiando programaci\u00f3n",
+        "asistente": "\u00a1Qu\u00e9 bien que est\u00e1s estudiando programaci\u00f3n! \u00bfEn qu\u00e9 proyecto est\u00e1s trabajando hoy?"
+    },
+    {
+        "usuario": "estoy trabajando en un asistente virtual",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "hola",
+        "asistente": "\u00a1Buenos d\u00edas! \ud83d\ude0a \u00bfC\u00f3mo est\u00e1s hoy?"
+    },
+    {
+        "usuario": "estoy m\u00e1s o menos",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "estoy estudiando programaci\u00f3n",
+        "asistente": "\u00a1Qu\u00e9 bien que est\u00e1s estudiando programaci\u00f3n! \u00bfEn qu\u00e9 proyecto est\u00e1s trabajando hoy?"
+    },
+    {
+        "usuario": "estoy creando un asistente virtual",
+        "asistente": "\u00a1Qu\u00e9 emocionante que est\u00e1s construyendo un asistente virtual! Aqu\u00ed tienes algunos consejos: 1. Usa APIs como Dialogflow o Rasa para mejorar el procesamiento del lenguaje natural. 2. Modulariza tu c\u00f3digo para facilitar futuras mejoras. 3. Prueba tu asistente con diferentes usuarios para obtener feedback. \u00bfEn qu\u00e9 parte del proyecto necesitas ayuda?"
+    },
+    {
+        "usuario": "necesito ayuda con los bronx",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "necesito ayuda con recursos",
+        "asistente": "Gracias por compartir. \u00bfQu\u00e9 m\u00e1s te gustar\u00eda compartir?"
+    },
+    {
+        "usuario": "hola c\u00f3mo est\u00e1s",
+        "asistente": "Gracias por compartir. \u00bfEn qu\u00e9 m\u00e1s puedo ayudarte?"
+    },
+    {
+        "usuario": "hola",
+        "asistente": "Gracias por compartir. \u00bfEn qu\u00e9 m\u00e1s puedo ayudarte?"
+    }
+]

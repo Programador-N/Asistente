@@ -1,0 +1,23 @@
+{
+    "usuario": {
+        "nombre": "Usuario",
+        "edad": 22,
+        "ocupaciones": [
+            "programación",
+            "cocinero"
+        ],
+        "proyectos": [
+            "Construyendo un asistente virtual"
+        ],
+        "horarios": {
+            "estudio": [
+                "mañana",
+                "siesta"
+            ],
+            "trabajo": [
+                "medio día",
+                "noche"
+            ]
+        }
+    }
+}

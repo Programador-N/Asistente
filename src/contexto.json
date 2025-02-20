@@ -1,0 +1,16 @@
+{
+    "perfil": {
+        "nombre": "Programador X",
+        "edad": 25,
+        "intereses": ["programación", "música", "tecnología"],
+        "familia": {
+            "padres": ["María", "Juan"],
+            "hermanos": ["Ana"]
+        },
+        "amigos": ["Carlos", "Laura", "Pedro"],
+        "trabajo": {
+            "empresa": "Tech Solutions",
+            "cargo": "Desarrollador de Software"
+        }
+    }
+}

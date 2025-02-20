@@ -1,0 +1,24 @@
+{
+    "perfil": {
+        "nombre": "Programadorene",
+        "familia": [
+            "Silvana (mamá)",
+            "Salim (hermano)",
+            "Papá de mi hermano (tío)"
+        ],
+        "amigos": [
+            "Agustín",
+            "Martín",
+            "Zekki",
+            "Yoel",
+            "Paolo"
+        ],
+        "trabajo": [
+            "Sonia (encargada)",
+            "Emma (encargado)",
+            "Anna (compañera)",
+            "Guada (compañera)",
+            "Gonza (compañero)"
+        ]
+    }
+}
